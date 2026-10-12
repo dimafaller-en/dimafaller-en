@@ -29,8 +29,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Техническая ценность](https://dimafaller.ru/blog/posts/tekhnicheskaya-tsennost) · <sub>03.10.2026</sub>
-- [Что может пойти не так?](https://dimafaller.ru/blog/posts/chto-mozhet-poiti-ne-tak) · <sub>02.10.2026</sub>
-- [Я работаю… сложно сказать кем](https://dimafaller.ru/blog/posts/ya-rabotayu-slozhno-skazat-kem) · <sub>26.08.2026</sub><!-- BLOG-POST-LIST:END -->
+- [Что может пойти не так?](https://dimafaller.ru/blog/posts/chto-mozhet-poiti-ne-tak) · <sub>02.10.2026</sub>
+- [Я работаю… сложно сказать кем](https://dimafaller.ru/blog/posts/ya-rabotayu-slozhno-skazat-kem) · <sub>26.08.2026</sub><!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary><b>English</b></summary>
