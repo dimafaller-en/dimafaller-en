@@ -28,9 +28,9 @@
 #### Свежее в блоге
 
 <!-- BLOG-POST-LIST:START -->
+- [Не делайте так Wordpress](https://dimafaller.ru/blog/posts/vordpress-i-plaginy) · <sub>24.10.2026</sub>
 - [Правильные инструменты](https://dimafaller.ru/blog/posts/pravilnie-instrumenti) · <sub>15.10.2026</sub>
-- [Кривой поиск](https://dimafaller.ru/blog/posts/krivoi-poisk) · <sub>12.10.2026</sub>
-- [Техническая ценность](https://dimafaller.ru/blog/posts/tekhnicheskaya-tsennost) · <sub>03.10.2026</sub><!-- BLOG-POST-LIST:END -->
+- [Кривой поиск](https://dimafaller.ru/blog/posts/krivoi-poisk) · <sub>12.10.2026</sub><!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary><b>English</b></summary>
