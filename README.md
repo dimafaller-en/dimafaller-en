@@ -28,9 +28,9 @@
 #### Свежее в блоге
 
 <!-- BLOG-POST-LIST:START -->
-- [Не делайте так Wordpress](https://dimafaller.ru/blog/posts/vordpress-i-plaginy) · <sub>24.10.2026</sub>
-- [Правильные инструменты](https://dimafaller.ru/blog/posts/pravilnie-instrumenti) · <sub>15.10.2026</sub>
-- [Кривой поиск](https://dimafaller.ru/blog/posts/krivoi-poisk) · <sub>12.10.2026</sub><!-- BLOG-POST-LIST:END -->
+- [Китайский детектив](https://dimafaller.ru/blog/posts/kitaiskiy-detektiv) · <sub>03.11.2026</sub>
+- [Яндекс ты ох…л?](https://dimafaller.ru/blog/posts/draft-f11196d2) · <sub>02.11.2026</sub>
+- [Не делайте так Wordpress](https://dimafaller.ru/blog/posts/vordpress-i-plaginy) · <sub>24.10.2026</sub><!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary><b>English</b></summary>
